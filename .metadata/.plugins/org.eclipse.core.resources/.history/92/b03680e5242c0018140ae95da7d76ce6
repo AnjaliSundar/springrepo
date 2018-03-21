@@ -1,0 +1,5 @@
+package com.springhibernate;
+
+public class EmployeeBean {
+
+}
