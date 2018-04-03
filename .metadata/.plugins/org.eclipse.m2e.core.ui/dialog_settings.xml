@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="sdd"/>
+			<item value="com.springboot.one"/>
 			<item value="com.spring.hibernate"/>
 			<item value="mavenproject"/>
 			<item value="FirstSpring"/>
@@ -9,6 +11,7 @@
 			<item value="Springcoremaven"/>
 		</list>
 		<list key="name">
+			<item value="004_SpringBoot_HelloWorld"/>
 			<item value="022_SpringMVC_Hibernate"/>
 			<item value="war"/>
 			<item value="mavenproject"/>
@@ -17,6 +20,8 @@
 			<item value="Springcoremaven"/>
 		</list>
 		<list key="artifactId">
+			<item value="001gh"/>
+			<item value="004_SpringBoot_HelloWorld"/>
 			<item value="022_SpringMVC_Hibernate"/>
 			<item value="022_SpringMVc_Hibernate"/>
 			<item value="mavenproject"/>
@@ -61,6 +66,8 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Spring_HibernateUpdate"/>
+			<item value="springmvc_hibernate11"/>
 			<item value="spring_hibernate"/>
 			<item value="SpringMVC_Hibernate1"/>
 			<item value="SpringMVC_Hibernate"/>
@@ -73,6 +80,8 @@
 			<item value="005_springmvcform"/>
 		</list>
 		<list key="artifactId">
+			<item value="Spring_HibernateUpdate"/>
+			<item value="springmvc_hibernate11"/>
 			<item value="spring_hibernate"/>
 			<item value="SpringMVC_Hibernate1"/>
 			<item value="SpringMVC_Hibernate"/>
@@ -84,6 +93,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\680946\Documents\workspace-sts-3.9.0.RELEASE\004_SpringBoot_HelloWorld\src\main\java"/>
 			<item value="C:\Users\680946\Documents\workspace-sts-3.9.0.RELEASE\005"/>
 			<item value="C:\Users\680946\Documents\workspace-sts-3.9.0.RELEASE\005_springmvcform"/>
 			<item value="C:\Users\680946\Documents\workspace-sts-3.9.0.RELEASE\014springboot"/>

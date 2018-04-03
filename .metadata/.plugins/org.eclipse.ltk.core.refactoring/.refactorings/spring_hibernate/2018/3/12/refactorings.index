@@ -1,1 +1,13 @@
 1521541027594	Rename package 'com.springhibernate'
+1521632323335	Rename package 'com.spring.form.employee.bean'
+1521632407321	Rename package 'com.spring.form.employee.controller'
+1521632526956	Rename package 'com.spring.form.employee.dao'
+1521632665058	Rename package 'com.spring.form.employee.entity'
+1521635185203	Rename resource 'Employeeform.jsp'
+1521635463112	Copy file
+1521635475690	Delete element
+1521635824857	Rename resource 'employeeform.jsp'
+1521635971510	Rename resource 'views'
+1521638970239	Move 'lib' to 'view'
+1521693821984	Copy folder
+1521693832551	Delete element

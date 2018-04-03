@@ -1,9 +1,0 @@
-package pack;
-
-import org.springframework.boot.SpringApplication;  
-@SpringBootTest  
-public class SpringBootApplication {  
-    public static void main(String[] args) {  
-        SpringApplication.run(SpringBootTest.class, args);  
-    }  
-}  
